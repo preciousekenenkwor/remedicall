@@ -1,6 +1,8 @@
 {
   "name": "Remedicall Dev Container",
-  "dockerComposeFile": "../docker-compose.yml",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
   "service": "frontend",
   "workspaceFolder": "/app",
   "forwardPorts": [3000, 8000],
@@ -13,4 +15,3 @@
     "ms-python.python"
   ]
 }
-
