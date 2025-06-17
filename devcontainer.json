@@ -1,0 +1,13 @@
+{
+  "name": "RemediCall Full Dev",
+  "dockerComposeFile": "../docker-compose.yml",
+  "service": "frontend",
+  "workspaceFolder": "/app",
+  "forwardPorts": [3000, 8000],
+  "mounts": [
+    "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
+  ],
+  "postCreateCommand": "npm install",
+  "remoteUser": "root"
+}
+
