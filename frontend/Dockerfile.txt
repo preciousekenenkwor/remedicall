@@ -1,4 +1,5 @@
-FROM node:20
+# Use official Node.js 18 image from Docker Hub
+FROM node:18
 
 WORKDIR /app
 
@@ -10,6 +11,4 @@ COPY . .
 
 EXPOSE 3000
 
-CMD ["npx", "webpack", "serve", "--host", "0.0.0.0", "--port", "3000", "--allowed-hosts", "all", "--client-web-socket-url", "auto"]
-
-
+CMD ["npm", "start"]
