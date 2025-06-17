@@ -3,7 +3,9 @@ version: '3.9'
 services:
 
   backend:
-    build: ./backend
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
     container_name: remedicall-backend
     ports:
       - "8000:8000"
@@ -13,7 +15,9 @@ services:
       - PYTHONUNBUFFERED=1
 
   frontend:
-    build: ./frontend
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
     container_name: remedicall-frontend
     ports:
       - "3000:3000"
