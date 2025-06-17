@@ -1,13 +1,16 @@
 {
-  "name": "RemediCall Full Dev",
+  "name": "Remedicall Dev Container",
   "dockerComposeFile": "../docker-compose.yml",
   "service": "frontend",
   "workspaceFolder": "/app",
   "forwardPorts": [3000, 8000],
-  "mounts": [
-    "source=/var/run/docker.sock,target=/var/run/docker.sock,type=bind"
-  ],
+  "shutdownAction": "stopCompose",
   "postCreateCommand": "npm install",
-  "remoteUser": "root"
+  "remoteUser": "root",
+  "extensions": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-python.python"
+  ]
 }
 
