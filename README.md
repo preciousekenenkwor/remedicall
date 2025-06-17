@@ -1,19 +1,20 @@
-## 🖥️ For Web
+<img width="959" alt="image" src="https://github.com/user-attachments/assets/ee229a9e-6203-4395-ad12-3241dbdd5066" />
+
+## To Run Frontend locally
 
 ```bash
-cd brandgenie-pro-web/frontend
+cd frontend
 npm install
-npm run dev
+npm start
 ```
-## 📱 For Mobile
-
-Install **Expo Go** on your phone and connect it to the **same internet connection or Wi-Fi** as your laptop. Sign up on the Expo Go app.
-Then run the following on your laptop and scan the QR code from the terminal:
+## To run backend locally
 
 ```bash
-cd brandgenie-pro-mobile/frontend
-npm install
-npx expo start
-```
+cd backend
+python -m venv venv
+.\venv\Scripts\activate  # On Windows
+# source venv/bin/activate  # On macOS/Linux
 
-![Screenshot 2025-04-11 184844](https://github.com/user-attachments/assets/ad529613-3de3-4e93-b7b7-d483b04eaaca)
+pip install -r requirements.txt
+uvicorn main:app --reload
+```
