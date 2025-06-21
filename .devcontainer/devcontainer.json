@@ -1,0 +1,17 @@
+{
+  "name": "Remedicall Dev Container",
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "service": "frontend",
+  "workspaceFolder": "/app",
+  "forwardPorts": [3000, 8000],
+  "shutdownAction": "stopCompose",
+  "postCreateCommand": "npm install",
+  "remoteUser": "root",
+  "extensions": [
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "ms-python.python"
+  ]
+}
