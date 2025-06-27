@@ -1,0 +1,12 @@
+2025-06-21 20:06:23,004 - mediguard - INFO - Attempting to send email to: jaydin.hyland@dsitip.com
+2025-06-21 20:06:23,005 - mediguard - INFO - SMTP Server: mail.privateemail.com:465
+2025-06-21 20:06:29,028 - mediguard - INFO - Connected via SSL
+2025-06-21 20:06:29,635 - mediguard - INFO - Login successful
+2025-06-21 20:06:30,994 - mediguard - INFO - Email sent to: jaydin.hyland@dsitip.com
+2025-06-21 20:06:31,273 - mediguard - INFO - All emails sent successfully
+2025-06-21 20:06:47,984 - mediguard - INFO - Attempting to send email to: shelton.isayah@dsitip.com
+2025-06-21 20:06:47,986 - mediguard - INFO - SMTP Server: mail.privateemail.com:465
+2025-06-21 20:06:49,052 - mediguard - INFO - Connected via SSL
+2025-06-21 20:06:49,629 - mediguard - INFO - Login successful
+2025-06-21 20:06:50,973 - mediguard - INFO - Email sent to: shelton.isayah@dsitip.com
+2025-06-21 20:06:51,257 - mediguard - INFO - All emails sent successfully

@@ -1,0 +1,10 @@
+2025-06-21 20:13:59,645 - mediguard - INFO - 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa RESET_PASSWORD 324827
+2025-06-21 20:13:59,998 - mediguard - INFO - token_data: , <app.core.auth.models.model_token.TokenModel object at 0x7f982264dfd0> 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa
+2025-06-21 20:16:32,072 - mediguard - INFO - 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa RESET_PASSWORD 324827
+2025-06-21 20:16:32,239 - mediguard - INFO - token_data: , None 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa
+2025-06-21 20:19:17,911 - mediguard - INFO - Attempting to send email to: shelton.isayah@dsitip.com
+2025-06-21 20:19:17,912 - mediguard - INFO - SMTP Server: mail.privateemail.com:465
+2025-06-21 20:19:19,169 - mediguard - INFO - Connected via SSL
+2025-06-21 20:19:19,712 - mediguard - INFO - Login successful
+2025-06-21 20:19:21,033 - mediguard - INFO - Email sent to: shelton.isayah@dsitip.com
+2025-06-21 20:19:21,303 - mediguard - INFO - All emails sent successfully

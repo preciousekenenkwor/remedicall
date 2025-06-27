@@ -1,0 +1,23 @@
+2025-06-21 20:21:14,117 - mediguard - INFO - Email: shelton.isayah@dsitip.com, Token: 316102
+2025-06-21 20:21:15,358 - mediguard - INFO - 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa RESET_PASSWORD 316102
+2025-06-21 20:21:15,731 - mediguard - INFO - token_data: , <app.core.auth.models.model_token.TokenModel object at 0x7ff01a05ea50> 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa
+2025-06-21 20:34:51,570 - mediguard - INFO - Attempting to send email to: shelton.isayah@dsitip.com
+2025-06-21 20:34:51,571 - mediguard - INFO - SMTP Server: mail.privateemail.com:465
+2025-06-21 20:34:52,686 - mediguard - INFO - Connected via SSL
+2025-06-21 20:34:53,255 - mediguard - INFO - Login successful
+2025-06-21 20:34:54,690 - mediguard - INFO - Email sent to: shelton.isayah@dsitip.com
+2025-06-21 20:34:54,975 - mediguard - INFO - All emails sent successfully
+2025-06-21 20:35:24,512 - mediguard - INFO - Email: shelton.isayah@dsitip.com, Token: 980608
+2025-06-21 20:35:25,409 - mediguard - INFO - 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa RESET_PASSWORD 980608
+2025-06-21 20:35:25,603 - mediguard - INFO - token_data: , <app.core.auth.models.model_token.TokenModel object at 0x7ff01a056140> 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa
+2025-06-21 20:36:47,209 - mediguard - INFO - Attempting to send email to: shelton.isayah@dsitip.com
+2025-06-21 20:36:47,212 - mediguard - INFO - SMTP Server: mail.privateemail.com:465
+2025-06-21 20:36:48,820 - mediguard - INFO - Connected via SSL
+2025-06-21 20:36:49,398 - mediguard - INFO - Login successful
+2025-06-21 20:36:50,757 - mediguard - INFO - Email sent to: shelton.isayah@dsitip.com
+2025-06-21 20:36:51,019 - mediguard - INFO - All emails sent successfully
+2025-06-21 20:37:12,464 - mediguard - INFO - Email: shelton.isayah@dsitip.com, Token: 100499
+2025-06-21 20:37:13,566 - mediguard - INFO - 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa RESET_PASSWORD 100499
+2025-06-21 20:37:13,767 - mediguard - INFO - token_data: , <app.core.auth.models.model_token.TokenModel object at 0x7ff017ee60b0> 202506211518214ng76spxpa53a73cce9eb74962b273266041ff68fa
+2025-06-21 20:42:37,271 - mediguard - INFO - Access token expiry time: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTA1Mzg2NzcsImlhdCI6MTc1MDUzODU1NywidHlwZSI6IkFDQ0VTU19UT0tFTiIsInN1YiI6IjIwMjUwNjIxMTUxODIxNG5nNzZzcHhwYTUzYTczY2NlOWViNzQ5NjJiMjczMjY2MDQxZmY2OGZhIiwiYWxnIjoiSFMyNTYifQ.LglNOL1SuvLeUJ3_GBXOvMBOJDD9q6z6ZUxzvA9lEHo
+2025-06-21 20:42:37,271 - mediguard - INFO - Refresh token expiry time: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NTA1Mzg3MzcsImlhdCI6MTc1MDUzODU1NywidHlwZSI6IlJFRlJFU0hfVE9LRU4iLCJzdWIiOiIyMDI1MDYyMTE1MTgyMTRuZzc2c3B4cGE1M2E3M2NjZTllYjc0OTYyYjI3MzI2NjA0MWZmNjhmYSIsImFsZyI6IkhTMjU2In0.iTpMKc8wy9zPfmkyb2xdTPYYosZ7hOfVEem55BhOo_I

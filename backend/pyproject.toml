@@ -1,0 +1,20 @@
+[project]
+name = "backend"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "asyncpg>=0.30.0",
+    "bcrypt>=4.3.0",
+    "cryptography>=45.0.4",
+    "fastapi[standard]>=0.115.13",
+    "jinja2>=3.1.6",
+    "passlib>=1.7.4",
+    "pydantic>=2.11.7",
+    "pydantic-settings>=2.9.1",
+    "pyjwt>=2.10.1",
+    "python-dateutil>=2.9.0.post0",
+    "sqlalchemy>=2.0.41",
+    "uvicorn>=0.34.3",
+]

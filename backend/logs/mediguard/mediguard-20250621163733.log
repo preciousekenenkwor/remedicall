@@ -1,0 +1,6 @@
+2025-06-21 16:38:10,866 - mediguard - INFO - Attempting to send email to: shelton.isayah@dsitip.com
+2025-06-21 16:38:10,867 - mediguard - INFO - SMTP Server: mail.privateemail.com:465
+2025-06-21 16:38:11,789 - mediguard - INFO - Connected via SSL
+2025-06-21 16:38:12,327 - mediguard - INFO - Login successful
+2025-06-21 16:38:13,589 - mediguard - INFO - Email sent to: shelton.isayah@dsitip.com
+2025-06-21 16:38:13,854 - mediguard - INFO - All emails sent successfully
